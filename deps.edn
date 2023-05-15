@@ -1,0 +1,4 @@
+{:paths ["src"]
+ :deps  {}
+ :aliases 
+ {:neil {:project {:name kata-are-they-the-same/kata-are-they-the-same}}}}
